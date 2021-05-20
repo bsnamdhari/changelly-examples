@@ -1,6 +1,6 @@
 <?php
-    $apiKey = 'YOUR_API_KEY';
-    $apiSecret = 'YOUR_API_SECRET';
+    $apiKey = 'bdd5b9431ab04474b5ac3e014713d9f8';
+    $apiSecret = 'b821cea9d394234e49490e628344dc2baed13afe1698481bb87c08be8fa2d977';
     $apiUrl = 'https://api.changelly.com';
 
     $message = json_encode(
